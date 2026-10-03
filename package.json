@@ -10,5 +10,6 @@
     "comment"
   ],
   "author": "zhullyb <zhullyb@outlook.com>, wuyilingwei <wuyilingwei510v@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "pnpm@10.34.6"
 }

@@ -10,7 +10,7 @@
 ## 如何安装
 
 ``` bash
-npm install waline-plugin-llm-reviewer
+pnpm add waline-plugin-llm-reviewer-next
 ```
 
 ## 如何使用

@@ -10,7 +10,7 @@ This is a branch version of waline-plugin-llm-reviewer, which provides more func
 ## How to Install
 
 ``` bash
-npm install waline-plugin-llm-reviewer-next
+pnpm add waline-plugin-llm-reviewer-next
 ```
 
 ## How to Use
